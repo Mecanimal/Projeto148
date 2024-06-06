@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.scene {
+    width: 100%;
+    height: 100%;
+    background-image: url(https://www.theedkins.co.uk/jo/tess/bighex.gif);
+}
+
+.character {
+    height: 100vh;
+    width: 208vh;
+    text-align: center;
+    margin: auto 0;
+    justify-content: center;
+}
+
+h1 {
+    font-weight: 900;
+}
